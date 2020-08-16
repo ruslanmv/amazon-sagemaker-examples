@@ -1,3 +1,10 @@
+
+
+
+![alt text](https://github.com/ruslanmv/amazon-sagemaker-examples/raw/master/AWS-Machine%20Learning%20Certificate%20.png?raw=true)
+
+
+
 # Amazon SageMaker Examples
 
 This repository contains example notebooks that show how to apply machine learning and deep learning in [Amazon SageMaker](https://aws.amazon.com/sagemaker)
